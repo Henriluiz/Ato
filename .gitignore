@@ -42,3 +42,4 @@ yarn-error.*
 
 # Modelos já destionado para uso Pessoal.
 src/database/local/
+doc.txt
